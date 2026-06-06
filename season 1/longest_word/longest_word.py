@@ -14,7 +14,7 @@ def find_longest_word(words):
     for word in words:
         if len(word) == longest_length:
             longest_words.append(word)
-    return print("the longest word(s) in your sentence is: ", *longest_words)
+    return print("the longest word(s) in your sentence is: ", *longest_words, f"({longest_length} letters)")
 
 #run the app
 get_sentence()
