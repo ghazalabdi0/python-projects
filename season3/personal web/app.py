@@ -23,17 +23,14 @@ projects = [
     {
         "title": "Personal Portfolio",
         "description": "A responsive portfolio website built with Flask.",
-        "github": "https://github.com/username/portfolio"
     },
     {
         "title": "Task Manager",
         "description": "Simple task management application using Flask.",
-        "github": "https://github.com/username/task-manager"
     },
     {
         "title": "Blog Website",
         "description": "Personal blog developed using Flask and SQLite.",
-        "github": "https://github.com/username/blog"
     }
 ]
 
